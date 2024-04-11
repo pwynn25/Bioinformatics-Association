@@ -1,0 +1,21 @@
+Welcome to the first ever bioinformatics hackathon
+We are excited you are here!
+
+This coding task involves pipelines. We are running DNA through a series of softwares in hopes to get an output that we can understand. The problem is some of the files we need to run tests further down the pipeline require
+outputs of the previous tests that are inside directories with random names. Let's solve this problem with some code!
+
+
+please create a random directory to get started with the challenge!
+
+enter this into your IDE terminal:
+python3 GenerateFile
+
+this should have generated a file titled "randomSlurm.out"
+
+Your task:
+go inside this file to find the name of the directory created that contains the "consensi.fa.classified" file
+Once you have extracted the directory name, go inside and print the contents of the "consensi.fa.classified" file
+Good luck!
+
+
+
